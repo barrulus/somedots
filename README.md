@@ -77,6 +77,9 @@ ember):
 Toggle the welding sparks per-buffer with `C-c t w`. See
 `lisp/my-forge-cursor.el` for the palette and per-effect knobs.
 
+Want just the cursor effects without the rest of this config? They're packaged
+as a standalone, drop-in bundle: **[barrulus/forge-cursor](https://github.com/barrulus/forge-cursor)**.
+
 ## License
 
 MIT — see [LICENSE](LICENSE). The bundled `welding-cursor.el` is original work;
