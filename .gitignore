@@ -1,0 +1,23 @@
+# Emacs runtime state — never commit
+elpa/
+eln-cache/
+.cache/
+auto-save/
+auto-save-list/
+backups/
+eshell/
+transient/
+tree-sitter/
+url/
+projectile-bookmarks.eld
+recentf
+history
+places
+bookmarks
+tramp
+treemacs-persist
+projects
+*.elc
+*~
+\#*\#
+.\#*
